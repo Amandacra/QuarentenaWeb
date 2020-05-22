@@ -8,7 +8,11 @@
         <h1>Link para minhas atividades da quarentena:</h1>
         <p>
             <h3>Dia 19/05/2020:</h3>
-            <a href="20200519/Soma.php">Soma de dois números</a>
+            <a href="20200519/index.php">Soma de dois números</a>
+        </p>
+        <p>
+            <h3>Dia 20/05/2020:</h3>
+            <a href="20200520/quarentenaWEB-Beluzo/index.php">Exercício de colaboração do Beluzo</a>
         </p>
     </body>
 </html>
