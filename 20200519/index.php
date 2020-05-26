@@ -25,7 +25,7 @@
             +
             <input type="text" name="num2" placeholder="Operador 2..."/>
             =
-            <input type="number" name="result" value=" " disabled placeholder="Resultado"/>
+            <input type="number" name="result" value=" " disabled placeholder="Resultado"/> <!--Disabled não vai o valor do resultado e o readonly vai-->
         <input type="reset" value="Limpar"/>
         <input type="button" value="Calcular" onclick="Soma(document.form.num1.value, document.form.num2.value);"/>
     </form>
